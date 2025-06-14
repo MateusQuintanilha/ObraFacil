@@ -1,0 +1,20 @@
+export enum ServiceType {
+  Alvenaria = 'Alvenaria',
+  ReparoGeral = 'Reparo Geral',
+  Pintura = 'Pintura',
+  Hidraulica = 'Hidráulica',
+  Eletrica = 'Elétrica',
+  Montagem = 'Montagem e Instalação',
+  Manutencao = 'Manutenção Preventiva',
+  ManutencaoGeral = 'Manutenção Geral',
+  Jardinagem = 'Jardinagem e Paisagismo',
+  Limpeza = 'Limpeza Pós-Obra',
+  Impermeabilizacao = 'Impermeabilização',
+  Reforma = 'Reforma e Remodelação',
+  Telhado = "Telhado",
+  Marcenaria = "Marcenaria",
+  GessoDrywall = "Gesso/Drywall",
+  Instalacao = "Instalação",
+  Demolicao = "Demolição",
+  Outros = "Outros"
+}
